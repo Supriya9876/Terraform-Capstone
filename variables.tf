@@ -8,4 +8,4 @@ variable "eks_desired_size"    { default = 2 }
 variable "eks_max_size"        { default = 2 }
 variable "eks_min_size"        { default = 1 }
 variable "db_username"         { default = "admin" }
-variable "db_password"         { default = "expenseGit12" }
+variable "db_password"         { default = "admin1234" }
